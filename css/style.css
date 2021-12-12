@@ -360,3 +360,16 @@
     line-height: 16px;
     color: #B6B6B6;
 }
+
+.button {
+    width: 150px;
+    height: 40px;
+    background: #95E1D3;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    border: 0;
+}
